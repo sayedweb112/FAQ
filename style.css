@@ -1,0 +1,65 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.title {
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.main {
+    padding: 130px 360px 40px;
+    border-bottom: 1px solid #D2D5DA;
+    width: 100%;
+}
+
+#up {
+    margin-bottom: 25px;
+}
+
+#down {
+    margin-top: 25px;
+}
+
+.main h2 {
+    padding: 0px 20px;
+}
+
+.main-text {
+    font-size: 1rem;
+}
+
+.main-text p {
+    padding-left: 20px;
+}
+
+.main-text a {
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+
+.list li {
+    margin-bottom: 10px;
+}
+
+.background {
+    background: #F8FAFC;
+}
+
+.footer {
+    margin-left: 380px;
+    font-size: 1rem;
+    text-align: left;
+    width: 100%;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+.footer ul li {
+    margin-bottom: 12px;
+}
